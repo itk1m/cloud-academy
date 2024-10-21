@@ -1,8 +1,6 @@
 # cloud-academy
 This will be the first line that I write in my git journey.
 
-Updating file
+Updating file.
 
-Making new changes git commands
-
-Making changes from tutorial/git branch.
+Making changes with git commands
